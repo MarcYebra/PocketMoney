@@ -28,14 +28,14 @@ Pocket Money is a full-stack web application designed to help users track their 
 
 ---
 ##Contributers 
-- **Marc Yebra - Full Stack Developer
+- Marc Yebra - Full Stack Developer
 
 ---
 
 ##Future Enhancements
-- **Add expense prediction using AI/ML
-- **Enable multi-user support with shared budgets
-- **Integrate with third-party services 
+- Add expense prediction using AI/ML
+- Enable multi-user support with shared budgets
+- Integrate with third-party services 
 
 ## Setup Instructions
 
