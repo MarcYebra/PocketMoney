@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# IDE configuration files
+.idea/
+.vscode/
+*.iml
+
+/config/master.key
+/public/packs
+public/packs-test
+/node_modules
+
