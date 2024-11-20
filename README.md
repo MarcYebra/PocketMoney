@@ -27,15 +27,18 @@ Pocket Money is a full-stack web application designed to help users track their 
 - **[AWS](https://aws.amazon.com/):** Cloud services for hosting and scalability.
 
 ---
-##Contributers 
-- Marc Yebra - Full Stack Developer
+
+## Contributors
+- **Marc Yebra** – Full Stack Developer
 
 ---
 
-##Future Enhancements
-- Add expense prediction using AI/ML
-- Enable multi-user support with shared budgets
-- Integrate with third-party services 
+## Future Enhancements
+- Add expense prediction using AI/ML.
+- Enable multi-user support with shared budgets.
+- Integrate with third-party services.
+
+---
 
 ## Setup Instructions
 
@@ -46,9 +49,11 @@ Ensure you have the following installed:
 - **Docker**
 
 ### Clone the Repository
-```bash
-git clone https://github.com/MarcYebra/pocket-money.git
-cd pocket-money
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MarcYebra/pocket-money.git
+   cd pocket-money
+2. Backend Setup (Django):
 cd backend
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
@@ -56,9 +61,20 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 
+3. Frontend Setup (React):
 cd ../frontend
 npm install
 npm start
 
+4. Docker Setup (optional):
 docker-compose up --build
+
+"""
+Pocket Money Application
+
+Copyright © 2024 Marc Yebra. All rights reserved.
+This project is licensed under the MIT License.
+See the LICENSE file in the project root for full license information.
+"""
+
 
