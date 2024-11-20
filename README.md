@@ -69,12 +69,12 @@ npm start
 4. Docker Setup (optional):
 docker-compose up --build
 
-"""
+___________________________
 Pocket Money Application
 
 Copyright © 2024 Marc Yebra. All rights reserved.
 This project is licensed under the MIT License.
 See the LICENSE file in the project root for full license information.
-"""
+
 
 
